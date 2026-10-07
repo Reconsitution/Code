@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# 运行时生成的演示数据，删掉后重启会重新播种
+server/data/
